@@ -1,4 +1,4 @@
-name: Hosting Static Website
+name: Hosting Static Website 
 
 on:
   push:
